@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="HelloWorld">
-  <grid id="27dc6" binding="lblMensagem" layout-manager="CardLayout" hgap="0" vgap="0">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="CardLayout" hgap="0" vgap="0">
     <constraints>
       <xy x="20" y="20" width="500" height="400"/>
     </constraints>
     <properties/>
     <border type="none"/>
     <children>
-      <component id="1a8eb" class="javax.swing.JLabel">
+      <component id="76bd5" class="javax.swing.JLabel" binding="lblMensagem">
         <constraints>
           <card name="Card1"/>
         </constraints>

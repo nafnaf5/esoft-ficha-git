@@ -1,10 +1,15 @@
-public class HellowWorld extends JFrame {
+import javax.swing.*;
+
+public class HelloWorld extends JFrame {
     private JPanel panel1;
-    public HellowWorld(){
+    private JLabel lblMensagem;
+    public HelloWorld(){
         setContentPane(panel1);
         pack();
     }
     public static void main(String[] args) {
-        new HellowWorld().setVisible(true);
+        new HelloWorld().setVisible(true);
     }
 }
+
+
