@@ -7,13 +7,12 @@
     <properties/>
     <border type="none"/>
     <children>
-      <component id="76bd5" class="javax.swing.JLabel" binding="lblMensagem">
+      <component id="3b904" class="javax.swing.JButton" binding="lblMensagem">
         <constraints>
           <card name="Card1"/>
         </constraints>
         <properties>
-          <horizontalAlignment value="0"/>
-          <text value="Olá Mundo"/>
+          <text value="“Experiência"/>
         </properties>
       </component>
     </children>
